@@ -1,0 +1,9 @@
+[package]
+name = "praxis-os"
+version = "0.1.0"
+authors = ["Michelle Darcy <mdarcy137@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+riscv-rt = "0.5.0"
+panic-halt = "0.2.0"
